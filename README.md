@@ -26,8 +26,5 @@
     <li>"lodepng" library for image reading and writing</li>
 </ul>
 
-<h2>Contributions</h2>
-<p>Contributions and improvements to this project are welcome. Feel free to submit issues or pull requests.</p>
-
 </body>
 </html>
